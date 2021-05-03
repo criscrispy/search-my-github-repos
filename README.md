@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
+Check [live demo of app](https://search-my-github-repos.herokuapp.com/) deployed on heroku.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
